@@ -1,2 +1,2 @@
 # login-and-signup-using-java-servlet
-the code is design for signup user and login user only
+the code is designed for signup users and login users only
